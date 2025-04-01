@@ -3,7 +3,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 <p align="center">
-  <img src="http://github.com/CantilloLuis/Desarrollo-Web-Venta-Bicicletas-react/blob/main/Captura%20de%20pantalla%202025-04-01%20152246.png" width="250">
+  <img src="http://github.com/CantilloLuis/Desarrollo-Web-Venta-Bicicletas-react/blob/main/Captura%20de%20pantalla%202025-04-01%20152246.png?raw=true" width="250">
   <img src="https://github.com/CantilloLuis/Desarrollo-Web-Venta-Bicicletas-react/blob/main/Captura%20de%20pantalla%202025-04-01%20152205.png" width="250">
   <img src="https://github.com/CantilloLuis/Desarrollo-Web-Venta-Bicicletas-react/blob/main/Captura%20de%20pantalla%202025-04-01%20152246.png" width="250">
 </p>
